@@ -1,0 +1,4 @@
+Essa pasta aonde está direcionada para recber os arquivos txt.
+no caminho coloque \\ :
+de acordo aonde ficar localizada tua pasta
+como esse exemplo: \\Levantamento\\txt\\levantamento(Atualizado).txt
