@@ -1,0 +1,13 @@
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\bin\Debug\netcoreapp3.1\Transferencia.exe
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\bin\Debug\netcoreapp3.1\Transferencia.deps.json
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\bin\Debug\netcoreapp3.1\Transferencia.runtimeconfig.json
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\bin\Debug\netcoreapp3.1\Transferencia.runtimeconfig.dev.json
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\bin\Debug\netcoreapp3.1\Transferencia.dll
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\bin\Debug\netcoreapp3.1\Transferencia.pdb
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\obj\Debug\netcoreapp3.1\Transferencia.csprojAssemblyReference.cache
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\obj\Debug\netcoreapp3.1\Transferencia.AssemblyInfoInputs.cache
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\obj\Debug\netcoreapp3.1\Transferencia.AssemblyInfo.cs
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\obj\Debug\netcoreapp3.1\Transferencia.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\obj\Debug\netcoreapp3.1\Transferencia.dll
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\obj\Debug\netcoreapp3.1\Transferencia.pdb
+C:\Users\BRUNO BARROS\Desktop\Projeto Github\Transferencia\obj\Debug\netcoreapp3.1\Transferencia.genruntimeconfig.cache
