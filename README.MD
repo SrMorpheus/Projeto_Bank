@@ -3,7 +3,7 @@
 
 # Sendo implementado:
 ## Cadastros de Contas.
-## Lista de Contas Com as Informações.
+## Lista de Contas com as Informações.
 ## transferências, saques e depósitos.
 
 ### Nome: 
